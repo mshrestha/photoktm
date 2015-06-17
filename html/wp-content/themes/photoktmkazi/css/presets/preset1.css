@@ -11,7 +11,7 @@ a,
 
 .btn.btn-primary:hover,
 .btn-submit:hover {
-  background-color: #027db3
+  background-color: #f841b3;
 }
 
 a:hover, a:focus {
@@ -37,14 +37,10 @@ a:hover, a:focus {
   background-color:#000000;
 }
 .main-nav {
-    width:300px;
+    /*width:300px;
     position: fixed;
-    height:100%;
+    height:100%;*/
 }
-.container {
-    margin-left:300px;
-}
-
 .twitter-left-control:hover, 
 .twitter-right-control:hover, 
 .btn-loadmore:hover  {
