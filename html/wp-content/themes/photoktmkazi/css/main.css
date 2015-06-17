@@ -1098,3 +1098,10 @@ ul.address {
   color: #000;
 }
 
+#support .entry-header{
+  padding-left: 0;
+  padding-right: 0;
+}
+#support .blog-posts{
+  overflow: hidden;
+}

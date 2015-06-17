@@ -160,69 +160,65 @@ get_header(); ?>
     </div> <!-- /.container -->
   </section><!--/#visit-kathmandu -->
   <section id="support">
-    <div class="container-1 container">
+    <div class="container">
       <div class="row">
-        <div class="col-md-12">
-          <div class="row">
-            <div class="col-md-5">
-              <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/pic2.jpg" />
-              <div class="entry-header">
-                <span class="cetagory">nepalphotoproject<br /> Laxmi Narayan Shilpakar, the "flag bearer of Basantapur", stands amidst the ruins and continues to hold the flag of Nepal, swaying it proudly with a smile on his face. Photo by @raine1090</span>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <h2>Support</h2>
-              <p>The city of Patan, where Photo Kathmandu 2015 will be anchored, has lost many important heritage sites in the April 2015 earthquakes. The first edition of the festival wishes to pay homage to its beautiful host city and celebrate its history and resilience. </p>
-              <p>Photo Kathmandu will promote a special fund-raising Print Sale to contribute towards the rebuilding of heritage sites in Patan. This fund-raising Print Sale will be managed pro bono by photo.circle. Kathmandu Valley Preservation Trust (KVPT) will be the implementing partner. </p>
-              <p>Please support this effort by buying a print and telling your friends about it! </p>
-              <p><a href="#" class="btn btn-lg btn-primary">BUY A PRINT</a></p>
-              <h2>About Kathmandu Valley Preservation Trust </h2>
-              <p>
-                The Kathmandu Valley Preservation Trust (KVPT) was founded in 1991 with the mission to safeguard the extraordinary and threatened architectural heritage of the Kathmandu Valley in Nepal. Over the past two decades, KVPT has saved over 50 historic buildings including temples, step-wells, monasteries, palaces, and homes, and has launched three major campaigns for preservation on an urban scale. KVPT collaborates with community groups, local and international specialists, educational institutions, and the Department of Archaeology of the Government of Nepal. Restoration and conservation operations have initiated key research and training programs, and the KVPT office in Patan Darbar Square has become a resource center for architecture and urbanism in Nepal.
-              </p>
+        <div class="col-md-5">
+          <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/pic2.jpg" />
+          <div class="entry-header">
+            <span class="cetagory">nepalphotoproject<br /> Laxmi Narayan Shilpakar, the "flag bearer of Basantapur", stands amidst the ruins and continues to hold the flag of Nepal, swaying it proudly with a smile on his face. Photo by @raine1090</span>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <h2>Support</h2>
+          <p>The city of Patan, where Photo Kathmandu 2015 will be anchored, has lost many important heritage sites in the April 2015 earthquakes. The first edition of the festival wishes to pay homage to its beautiful host city and celebrate its history and resilience. </p>
+          <p>Photo Kathmandu will promote a special fund-raising Print Sale to contribute towards the rebuilding of heritage sites in Patan. This fund-raising Print Sale will be managed pro bono by photo.circle. Kathmandu Valley Preservation Trust (KVPT) will be the implementing partner. </p>
+          <p>Please support this effort by buying a print and telling your friends about it! </p>
+          <p><a href="#" class="btn btn-lg btn-primary">BUY A PRINT</a></p>
+          <h2>About Kathmandu Valley Preservation Trust </h2>
+          <p>
+            The Kathmandu Valley Preservation Trust (KVPT) was founded in 1991 with the mission to safeguard the extraordinary and threatened architectural heritage of the Kathmandu Valley in Nepal. Over the past two decades, KVPT has saved over 50 historic buildings including temples, step-wells, monasteries, palaces, and homes, and has launched three major campaigns for preservation on an urban scale. KVPT collaborates with community groups, local and international specialists, educational institutions, and the Department of Archaeology of the Government of Nepal. Restoration and conservation operations have initiated key research and training programs, and the KVPT office in Patan Darbar Square has become a resource center for architecture and urbanism in Nepal.
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="blog-posts">
+          <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="400ms">
+            <div class="post-thumb">
+              <a href="#"><img class="img-responsive" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/blog/1.jpg" alt=""></a> 
             </div>
           </div>
-          <div class="row">
-            <div class="blog-posts">
-              <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="400ms">
-                <div class="post-thumb">
-                  <a href="#"><img class="img-responsive" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/blog/1.jpg" alt=""></a> 
-                </div>
-              </div>
-              <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
-                <div class="post-thumb">
-                  <div id="post-carousel"  class="carousel slide" data-ride="carousel">
-                    <ol class="carousel-indicators">
-                      <li data-target="#post-carousel" data-slide-to="0" class="active"></li>
-                      <li data-target="#post-carousel" data-slide-to="1"></li>
-                      <li data-target="#post-carousel" data-slide-to="2"></li>
-                    </ol>
-                    <div class="carousel-inner">
-                      <div class="item active">
-                        <a href="#"><img class="img-responsive" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/blog/2.jpg" alt=""></a>
-                      </div>
-                      <div class="item">
-                        <a href="#"><img class="img-responsive" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/blog/1.jpg" alt=""></a>
-                      </div>
-                      <div class="item">
-                        <a href="#"><img class="img-responsive" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/blog/3.jpg" alt=""></a>
-                      </div>
-                    </div>                               
-                    <a class="blog-left-control" href="#post-carousel" role="button" data-slide="prev"><i class="fa fa-angle-left"></i></a>
-                    <a class="blog-right-control" href="#post-carousel" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a>
-                  </div>                            
-                  
-                  
-                </div> 
-              </div>
-              <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="800ms">
-                <div class="post-thumb">
-                  <a href="#"><img class="img-responsive" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/blog/3.jpg" alt=""></a>
-                </div>
-              </div>                    
-            </div>               
-          </div> <!-- /.row -->
-        </div>
+          <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
+            <div class="post-thumb">
+              <div id="post-carousel"  class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                  <li data-target="#post-carousel" data-slide-to="0" class="active"></li>
+                  <li data-target="#post-carousel" data-slide-to="1"></li>
+                  <li data-target="#post-carousel" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner">
+                  <div class="item active">
+                    <a href="#"><img class="img-responsive" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/blog/2.jpg" alt=""></a>
+                  </div>
+                  <div class="item">
+                    <a href="#"><img class="img-responsive" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/blog/1.jpg" alt=""></a>
+                  </div>
+                  <div class="item">
+                    <a href="#"><img class="img-responsive" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/blog/3.jpg" alt=""></a>
+                  </div>
+                </div>                               
+                <a class="blog-left-control" href="#post-carousel" role="button" data-slide="prev"><i class="fa fa-angle-left"></i></a>
+                <a class="blog-right-control" href="#post-carousel" role="button" data-slide="next"><i class="fa fa-angle-right"></i></a>
+              </div>                            
+              
+              
+            </div> 
+          </div>
+          <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="800ms">
+            <div class="post-thumb">
+              <a href="#"><img class="img-responsive" src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/blog/3.jpg" alt=""></a>
+            </div>
+          </div>                    
+        </div>               
       </div> <!-- /.row -->
     </div> <!-- /.container -->
   </section><!--/#support-->
