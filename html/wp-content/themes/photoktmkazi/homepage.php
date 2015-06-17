@@ -445,5 +445,8 @@ get_header(); ?>
       </div>
     </div> 
   </section><!--/#Contact Us-->
+  <div id="partner-logo" class="text-center wow fadeIn" data-wow-duration="1000ms" data-wow-delay="400ms">
+    <img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/logos.png" alt="" class="responsive-img">
+  </div>
   
 <?php get_footer(); ?>
