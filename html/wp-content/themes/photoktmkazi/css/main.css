@@ -78,6 +78,7 @@ h3 {
 }
 .navbar-nav li a{
   /*font-family:'NeuzeitSLTW01-BookHeavy';*/
+  font-family: 'Helvetica', serif;
 }
 .navbar-nav li a:hover, 
 .navbar-nav li a:focus {
@@ -327,7 +328,7 @@ ul.nav{
     width: 109px;
   }
   .main-nav .nav li a{
-    font-size: 13px;
+    font-size: 12px;
   }
 }
 @media(min-width:992px){
