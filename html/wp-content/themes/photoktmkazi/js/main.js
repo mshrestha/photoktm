@@ -29,11 +29,11 @@ jQuery(function($) {
 	});
 
 	$('.navbar-collapse ul li a').on('click', function() {  
-		$('html, body').animate({scrollTop: $(this.hash).offset().top - 50}, 1000);
+		$('html, body').animate({scrollTop: $(this.hash).offset().top - 0}, 1000);
 		return false;
 	});
 	$('.navbar-brand').on('click', function() {  
-		$('html, body').animate({scrollTop: $(this.hash).offset().top - 50}, 1000);
+		$('html, body').animate({scrollTop: $(this.hash).offset().top - 0}, 1000);
 		return false;
 	});
 
