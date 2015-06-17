@@ -77,7 +77,7 @@ h3 {
   font-size: 17px;
 }
 .navbar-nav li a{
-  font-family:'NeuzeitSLTW01-BookHeavy';
+  /*font-family:'NeuzeitSLTW01-BookHeavy';*/
 }
 .navbar-nav li a:hover, 
 .navbar-nav li a:focus {
