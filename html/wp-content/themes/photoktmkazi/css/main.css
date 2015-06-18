@@ -366,7 +366,7 @@ ul.nav{
 }
 @media(min-width:992px){
   .main-nav .nav li a{
-    font-size: 15px;
+    font-size: 13px;
     padding-left: 15px;
     padding-right: 15px;
   }
