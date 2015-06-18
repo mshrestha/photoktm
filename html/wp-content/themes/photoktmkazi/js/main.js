@@ -166,3 +166,6 @@ jQuery(function($) {
 	
 });
 
+jQuery(function($) {
+	jQuery(window).trigger('resize').trigger('scroll');
+});

@@ -26,6 +26,7 @@
   <script type="text/javascript" src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/smoothscroll.js"></script>
   <script type="text/javascript" src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/jquery.countTo.js"></script>
   <script type="text/javascript" src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/lightbox.min.js"></script>
+  <script type="text/javascript" src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/parallax.js"></script>
   <script type="text/javascript" src="<?php echo esc_url( get_template_directory_uri() ); ?>/js/main.js"></script>
 <?php wp_footer(); ?>
 
