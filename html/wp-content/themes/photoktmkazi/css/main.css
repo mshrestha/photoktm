@@ -1179,14 +1179,14 @@ section ol{
 /*2col template*/
 @media(min-width:992px){
   .col-right{
-  padding-left: 50px;
+    padding-left: 50px;
   }
   .col-left{
-  padding-right: 50px;
+    padding-right: 50px;
   }
 }
 .parallax-window{
-    min-height: 900px;
+    min-height: 300px;
     background: transparent;
 }
 #mti_wfs_colophon{

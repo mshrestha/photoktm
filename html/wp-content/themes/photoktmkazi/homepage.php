@@ -15,7 +15,7 @@ get_header(); ?>
   <header id="home">
     <div id="home-slider" class="carousel slide carousel-fade" data-ride="carousel">
       <div class="carousel-inner">
-        <div class="item active parallax-window" data-parallax="scroll" data-speed="0.1" data-iosFix="true" data-image-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/bg2.jpg">
+        <div class="item active parallax-window" data-positionY="0px" data-parallax="scroll" data-speed="0.1" data-iosFix="true" data-image-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/bg2.jpg">
           <!-- <div class="caption">
             <h1 class="animated fadeInLeftBig"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/logo.png" style="width:300px;"/></h1>
             <p class="animated fadeInRightBig">November 3-9 2015</p>
@@ -82,8 +82,7 @@ get_header(); ?>
           </div>
       </div><!-- /.container -->
   </section><!--/#services-->
-  <div class="section parallax-img parallax-window" data-parallax="scroll" data-iosFix="true" data-image-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/patandurbarsquare.jpg" data-naturalHeight="auto">
-  </div> <!-- /.parallax-img -->
+  <div class="section parallax-img parallax-window" data-positionY="0px" data-parallax="scroll" data-iosFix="true" data-image-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/patandurbarsquare.jpg" data-naturalHeight="auto"></div> <!-- /.parallax-img -->
   <section id="submit-form" class="pink-bg">
     <div class="container">
       <div class="row">
@@ -116,8 +115,7 @@ get_header(); ?>
       </div>
     </div> <!-- /.container -->
   </section> <!-- /.submit-form -->
-  <div class="section parallax-img parallax-window" data-parallax="scroll" data-iosFix="true" data-image-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/patandurbarsquare.jpg">
-  </div> <!-- /.parallax-img -->
+  <div class="section parallax-img parallax-window" data-positionY="0px" data-parallax="scroll" data-iosFix="true" data-image-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/patandurbarsquare.jpg" data-naturalHeight="auto"></div> <!-- /.parallax-img -->
   <section id="visit-kathmandu" class="parallax white-bg">
     <div class="container">
             <div class="row">
@@ -144,8 +142,7 @@ get_header(); ?>
             </div>  <!-- /.row -->
         </div><!-- /.container -->
   </section><!--/#visit-kathmandu -->
-  <div class="section parallax-img parallax-window" data-parallax="scroll" data-iosFix="true" data-image-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/patandurbarsquare.jpg">
-  </div> <!-- /.parallax-img -->
+  <div class="section parallax-img parallax-window" data-positionY="0px" data-parallax="scroll" data-iosFix="true" data-image-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/patandurbarsquare.jpg" data-naturalHeight="auto"></div> <!-- /.parallax-img -->
   <section id="support" class="pink-bg">
     <div class="container">
       <div class="row">
@@ -184,8 +181,7 @@ get_header(); ?>
       </div>
     </div> -->
   <!--</section>/#about-us-->
-  <div class="section parallax-img parallax-window" data-parallax="scroll" data-iosFix="true" data-image-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/patandurbarsquare.jpg">
-  </div> <!-- /.parallax-img -->
+  <div class="section parallax-img parallax-window" data-positionY="0px" data-parallax="scroll" data-iosFix="true" data-image-src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/patandurbarsquare.jpg" data-naturalHeight="auto"></div> <!-- /.parallax-img -->
   <!-- <section id="blog">
     <div class="container">
       <div class="row">  
