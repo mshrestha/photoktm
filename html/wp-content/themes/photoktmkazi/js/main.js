@@ -18,8 +18,10 @@ jQuery(function($) {
 	$(window).on('scroll', function(){
 		if( $(window).scrollTop()>slideHeight ){
 			$('.main-nav').addClass('navbar-fixed-top');
+			$('body').addClass('nav-stucked')
 		} else {
 			$('.main-nav').removeClass('navbar-fixed-top');
+			$('body').removeClass('nav-stucked')
 		}
 	});
 	

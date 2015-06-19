@@ -372,8 +372,6 @@ get_header(); ?>
           <div class="row">
             <div class="col-md-6">
               <div class="contact-info wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
-              
-
                 <ul class="address">
                   <li><strong>Photo Kathmandu</strong></li>
                   <li>
@@ -390,5 +388,10 @@ get_header(); ?>
         </div>
       </div>
   </section><!--/#Contact Us-->
+  <section id="social-icons-container">
+    <a href="http://www.facebook.com/photoktm" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/facebook.png" alt=""></a>
+    <a href="http://www.twitter.com/photoktm" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/twitter.png" alt=""></a>
+    <a href="http://www.instagram.com/photoktm" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/instagram.png" alt=""></a>
+  </section>
   
 <?php get_footer(); ?>

@@ -1186,7 +1186,7 @@ section ol{
   }
 }
 .parallax-window{
-    min-height: 300px;
+    min-height: 900px;
     background: transparent;
 }
 #mti_wfs_colophon{
@@ -1219,4 +1219,22 @@ body p .btn{
 }
 .pink-bg .btn.btn-primary:hover, .pink-bg .btn-submit:hover{
   background-color: #666666;
+}
+/*social icons*/
+#social-icons-container{
+  text-align: center;
+  background-color: #000;
+  padding-top: 50px;  
+  padding-bottom: 180px;
+}
+#social-icons-container a{
+  margin: 0 10px;
+}
+
+/*home page body style*/
+body.home .site-footer{
+  display: none;
+}
+body.nav-stucked{
+margin-top: 60px;
 }
