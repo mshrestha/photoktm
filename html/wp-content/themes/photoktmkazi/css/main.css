@@ -347,7 +347,11 @@ ul.nav{
 }
 .navbar-brand{
   padding-left: 0;
+  outline: 0;
 }
+.navbar-brand:active, .navbar-brand:focus{
+  outline: 0;
+} 
 .navbar-fixed-top .navbar-brand{
   padding-top: 4px;
 }
@@ -372,7 +376,16 @@ ul.nav{
   }
 }
 .navbar-brand h1 {
-  margin-top: 5px;
+  margin-top: 0px;
+}
+@media(min-width:768px){
+ .navbar-brand h1 {
+    margin-top: 5px;
+  } 
+}
+.navbar-brand h1 img.logo-lg{
+  width: auto;
+  margin-top: 7px;
 }
 .navbar-brand h1 img{
   width: 155px;
