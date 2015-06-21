@@ -16,10 +16,6 @@
 		
 	</footer><!-- .site-footer -->
 
-</div><div style="background-color:#000; height:250px; padding-top:40px" align="center">
-<a href="http://www.facebook.com/photoktm" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/facebook.png" width="12" height="26" alt="Facebook" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.twitter.com/photoktm" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/twitter.png" width="31" height="26" alt="Twitter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.instagram.com/photoktm" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/instagram.png" width="26" height="26" alt="Instagram" /></a>
 </div>
 
 <!-- .site -->
