@@ -304,14 +304,14 @@ section p{
 
 #home-slider .fa-angle-down {
   position: absolute;
-  left: 50%;
-  bottom: 50px;
-  color: #f841b3;
+  left: 48%;
+  bottom: 60px;
+  color: #e6519d;
   display: inline-block;
   width: 24px;
   margin-left: -12px;
-  font-size: 24px;
-  line-height: 24px;
+  font-size: 70px;
+  line-height: 80px;
   z-index: 999;
   -webkit-animation: bounce 3000ms infinite;
   animation: bounce 3000ms infinite;

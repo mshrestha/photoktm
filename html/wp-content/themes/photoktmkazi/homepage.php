@@ -70,9 +70,13 @@ get_header(); ?>
             </div>
             <div class="col-md-6 col-right wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="700ms">
               <h3>THEME: TIME</h3>
-              <p>A photograph, created in a fraction of a second, can embrace years and decades, and sometimes immeasurable expanses of time. Time that is gained or lost; time that records and repeats, challenges and celebrates. Time that is sometimes still and sometimes racing. The first edition of Photo Kathmandu will work closely with a range of family, community and institutional archives, that present the Nepali past through images, memories and stories, juxtaposing the past, the present, and thefuture.  </p>
+              <p>A photograph, created in a fraction of a second, can embrace years and decades, and sometimes immeasurable expanses of time. Time that is gained or lost; time that records and repeats, challenges and celebrates. Time that is sometimes still and sometimes racing. The first edition of Photo Kathmandu will work closely with a range of family, community and institutional archives, that present the Nepali past through images, memories and stories, juxtaposing the past, the present, and the future.</p>
+<h3>FOLLOW US ON:</h3><a href="http://www.facebook.com/photoktm" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/facebooki.png" width="10" height="21" alt="Facebook" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.twitter.com/photoktm" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/twitteri.png" width="25" height="21" alt="Twitter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.instagram.com/photoktm" target="_blank"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/instagrami.png" width="21" height="21" alt="Instagram" /></a>
             </div>
-          </div>  <!-- /.row -->
+          </div>
+<!-- /.row -->
           <div id="partner-logo" class="text-center wow fadeIn" data-wow-duration="1000ms" data-wow-delay="400ms">
             <div class="row">
               <div class="col-xs-12">
@@ -110,7 +114,7 @@ get_header(); ?>
               <li>Image files renamed as your firstname_lastname_01.jpg eg; john_doe_01.jpg. Images should be 800 pixels on the longest side with caption/text included in file info. </li>
               <li>An introduction or artist statement in English not exceeding 1000 words. </li>
               <li>A short bio of of the individual or information about the submitting institution not exceeding 300 words. </li>
-              <li>Please zip the folder, name it your firstname_lastname and email to <a href="mailto:submissions@photoktm.com">submissions@photoktm.com</a>  with subject line: Submission_firstname_lastname </li>
+              <li>Please zip the folder, name it your firstname_lastname and email to <a href="mailto:submissions@photoktm.com">submissions@photoktm.com</a>  with subject line: Submission - Firstname Lastname</li>
             </ol>
           </div>
       </div>
@@ -122,7 +126,7 @@ get_header(); ?>
     <div class="container">
             <div class="row">
                 <div class="col-md-10">
-                  <h2 class="wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms"> Visit Kathamndu</h2>
+                  <h2 class="wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">Visit Kathmandu</h2>
                 </div>
             </div>
             <div class="row 2col">
@@ -156,9 +160,9 @@ get_header(); ?>
       <div class="row 2col">
           <div class="col-md-6 col-left wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
             <p>The city of Patan, where Photo Kathmandu 2015 will be anchored, has lost many important heritage sites in the April 2015 earthquakes. The first edition of the festival wishes to pay homage to its beautiful host city and celebrate its history and resilience.</p>
-            <p>Photo Kathmandu will promote a special fund-raising Print Sale to contribute towards the rebuilding of heritage sites in Patan. This fund-raising Print Sale will be managed pro bono by <a href="http://www.photocircle.com.np/" target="_blank">photo.circle</a>. Kathmandu Valley Preservation Trust (KVPT) will be the implementing partner.</p>
+            <p>Photo Kathmandu will promote a special fund-raising Print Sale to contribute towards the rebuilding of heritage sites in Patan. This fund-raising Print Sale will be managed pro bono by photo.circle. Kathmandu Valley Preservation Trust (KVPT) will be the implementing partner.</p>
             <p>Please support this effort by buying a print and telling your friends about it!</p>
-            <p><a href="#" class="btn btn-lg btn-primary">BUY A PRINT</a></p>
+            <p><a href="http://support.photoktm.com" class="btn btn-lg btn-primary">BUY A PRINT</a></p>
           </div>
           <div class="col-md-6 col-right wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="700ms">
             <h3>ABOUT KATHMANDU VALLEY PRESERVATION TRUST</h3>
@@ -381,7 +385,7 @@ get_header(); ?>
                     Kathmandu, Nepal 
                   </li>
                   <li> <span> Phone:</span> +977 1 5013501  </li>
-                  <li> <span> Email:</span><a href="mailto:mail@photocircle.com.np">mail@photocircle.com.np</a></li>
+                  <li> <span> Email:</span><a href="mailto:mail@photoktm.com">mail@photoktm.com</a></li>
                   <!-- <li><i class="fa fa-globe"></i> <span> Website:</span> <a href="#">www.sitename.com</a></li> -->
                 </ul>
               </div>                            
