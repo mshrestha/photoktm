@@ -1226,3 +1226,7 @@ h2.aboutUsTitle {
 h2.visitKathmanduTitle {
   padding-top:40px;
 }
+#social-icons-container {
+  background:#000;
+  text-align:center;
+}
