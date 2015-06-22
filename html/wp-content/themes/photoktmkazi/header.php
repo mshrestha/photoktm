@@ -13,8 +13,15 @@
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:title" content="Photo Kathmandu | 3-9 November 2015">
+<meta property="og:site_name" content="Photo Kathmandu">
+<meta property="og:image" content="<?php echo esc_url( get_template_directory_uri() ); ?>/images/fblead.jpg">
+<meta property="og:url" content="http://www.photoktm.com">
+<meta property="og:description" content="The newest addition to the international photography festival circuit, Photo Kathmandu is launching in November 2015. The first edition of the festival aims to serve as a platform for interaction between photography, history, anthropology and a wide array of the arts.">
+<meta property="og:type" content="website">
+<meta name="twitter:card" value="summary">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">    
+	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
     <link href="<?php echo esc_url( get_template_directory_uri() ); ?>/css/bootstrap.min.css" rel="stylesheet">
     <link href="<?php echo esc_url( get_template_directory_uri() ); ?>/css/animate.min.css" rel="stylesheet"> 
     <link href="<?php echo esc_url( get_template_directory_uri() ); ?>/css/font-awesome.min.css" rel="stylesheet">
