@@ -1220,3 +1220,9 @@ body p .btn{
 .pink-bg .btn.btn-primary:hover, .pink-bg .btn-submit:hover{
   background-color: #666666;
 }
+h2.aboutUsTitle {
+  padding-top:30px;
+}
+h2.visitKathmanduTitle {
+  padding-top:40px;
+}
